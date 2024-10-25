@@ -1,11 +1,10 @@
-import TodoApp from './todolist'
-
+import CrudApp from './crud'
 
 
 function App() {
   return (
     <div className="App">
-      <TodoApp/>
+      <CrudApp/>
     </div>
   );
 }
